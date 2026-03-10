@@ -1,0 +1,34 @@
+{
+  "agents": {
+    "defaults": {
+      "workspace": "~/.studyclaw/workspace"
+    },
+    "list": [
+      {
+        "id": "ai-tutor",
+        "name": "AI 导师",
+        "default": true,
+        "workspace": "~/.studyclaw/workspaces/ai-tutor",
+        "skills": ["studyclaw", "tutoring", "problem-solving"]
+      },
+      {
+        "id": "homework-grader",
+        "name": "作业批改助手",
+        "workspace": "~/.studyclaw/workspaces/homework-grader",
+        "skills": ["studyclaw", "grading", "problem-solving"]
+      },
+      {
+        "id": "learning-planner",
+        "name": "学习规划助手",
+        "workspace": "~/.studyclaw/workspaces/learning-planner",
+        "skills": ["studyclaw", "tutoring"]
+      },
+      {
+        "id": "language-learner",
+        "name": "语言学习助手",
+        "workspace": "~/.studyclaw/workspaces/language-learner",
+        "skills": ["studyclaw", "translation", "quiz"]
+      }
+    ]
+  }
+}

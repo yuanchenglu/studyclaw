@@ -1,20 +1,20 @@
 {
   "name": "openclaw",
   "version": "2026.3.9",
-  "description": "Multi-channel AI gateway with extensible messaging integrations",
+  "description": "Educational AI assistant platform with built-in tutoring agents and skills",
   "keywords": [],
-  "homepage": "https://github.com/openclaw/openclaw#readme",
+  "homepage": "https://studyclaw.org",
   "bugs": {
-    "url": "https://github.com/openclaw/openclaw/issues"
+    "url": "https://github.com/openclaw/studyclaw/issues"
   },
   "license": "MIT",
   "author": "",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/openclaw/openclaw.git"
+    "url": "git+https://github.com/openclaw/studyclaw.git"
   },
   "bin": {
-    "openclaw": "openclaw.mjs"
+    "studyclaw": "openclaw.mjs"
   },
   "directories": {
     "doc": "docs",
